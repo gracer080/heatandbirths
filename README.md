@@ -9,7 +9,7 @@ Emerging evidence establishes a link between heat exposure during pregnancy and 
 
   LMICs like India bear a disproportionate burden of the climate crisis, with increasing trends in more frequent heatwaves and less variation in temperatures between day and night, putting over 90% of the country at risk for hunger, loss of income, and premature death [10].A 2014 study in Ahmedabad found that heatwaves reaching temperatures of 47.8°C (118°F)  led to increased heat-related hospital admissions of newborns by 43% and more deaths among women overall[11]. Heat exposure also has a degenerative impact on social dynamics. A study found that every 1°C increase in the annual mean temperature was associated with a 4.49% increase in the prevalence of IPV in India, Nepal, and Pakistan [12] .Dual exposures to both increasing temperatures and associated elevated risk of IPV may intersect and exacerbate the risk of PTB, further highlighting women's vulnerability influenced by economic conditions contributing to a loss of income and increased caregiving responsibilities[13].
 
-#Research Question
+# Research Question
 
 What are the various sociodemographic factors that contribute to increased heat exposure and increased risk for adverse obstetric outcomes?
 

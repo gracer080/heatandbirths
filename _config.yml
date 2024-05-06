@@ -1,0 +1,33 @@
+title: Heat Stress and Adverse Obstetric Outcomes
+subtitle: Exploring Associations Between Extreme Heat and Adverse Obstetrict Outcomes in India
+description: A responsive site template designed by HTML5 Up and released under the Creative Commons.
+baseurl: "/heatandbirths" # This should match the repository name if your site is hosted in a repo subfolder
+url: "https://gracer080.github.io" # The base hostname & protocol for your site
+
+author:
+  name: Grace Rajan  # Only if you want to include it
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 2
+tiles:
+  - title: Analysis
+    image: /path/to/analysis-image.jpg  # Update with the path to the tile image
+    url: /heatandbirths/analysis  # Link to the analysis page
+  - title: Interactive Map
+    image: /path/to/map-image.jpg  # Update with the path to the tile image
+    url: /heatandbirths/interactive-map  # Link to the interactive map page
+
+# Removed all social settings
+socials: {}
+
+# build settings
+markdown: kramdown
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md

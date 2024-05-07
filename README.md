@@ -1,11 +1,13 @@
 # Heat and Adverse Obstetric Outcomes
 Project for CYPLAN255
 
-<iframe src="interactive_map2.html" width="900" height="506" frameborder="0" allowfullscreen></iframe>
+Check out the [Heat Vulnerability Index Interactive Map](interactive_map2.html) to explore the associations between extreme heat and adverse obstetric outcomes in India.
+
+
 
 ![cyp255 (1)](https://github.com/gracer080/heatandbirths/assets/79069159/cf42e4fb-62c2-404f-9a9d-f874498a35df)
 
-Check out the [Heat Vulnerability Index Interactive Map](interactive_map2.html) to explore the associations between extreme heat and adverse obstetric outcomes in India.
+
 
 # Introduction
   Climate change remains one of the most existential threats the planet has ever faced, not only threatening our natural world but also undermining decades of public health interventions across the globe. The natural consequences of anthropogenic climate change are leading to increasingly hostile environmental conditions, one of the most pressing of which is rising temperatures. The annual mean global near-surface temperature for the next five years is predicted to be between 1.1°C and 1.8°C higher than the 1850-1900 average[1]. The escalating frequency and severity of heatwaves and ambient temperatures present a substantial threat to overall human health, especially in populations with limited geopolitical or socioeconomic resources for adaptation [2]. This is exemplified by structural phenomena such as the Urban Heat Island effect, which demonstrates how the built environment and population density may further contribute to heat-related mortality, along with altered disease patterns, antibiotic resistance, water and food scarcity [3,4,5].

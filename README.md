@@ -59,6 +59,9 @@ Creating the Interactive Map:
 The map was created by first loading heat stress data from HiTiSEA for each individual in the DHS data set into GeoDataFrames with  GeoPandas. This data included district level information on sociodemogrpahic factors and heat stress exposure which was then aggregated and visualized using Foliums. Districts were color coded based on index values, illustrating variations in distribution of obstetric outcomes, sociodemographic factors, and heat stress. 
 
 
+![cyp255 (14)](https://github.com/gracer080/heatandbirths/assets/79069159/33c1ecfa-0147-4127-ad2c-9f1bde4a48b7)
+
+
 # Conclusion
 
 

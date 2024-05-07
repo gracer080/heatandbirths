@@ -59,6 +59,26 @@ Creating the Interactive Map:
 The map was created by first loading heat stress data from HiTiSEA for each individual in the DHS data set into GeoDataFrames with  GeoPandas. This data included district level information on sociodemogrpahic factors and heat stress exposure which was then aggregated and visualized using Foliums. Districts were color coded based on index values, illustrating variations in distribution of obstetric outcomes, sociodemographic factors, and heat stress. 
 
 
+# Conclusion
+
+
+# References
+1.Global temperatures set to reach new records in next five years. (2023, May 15). World Meteorological Organization. https://public.wmo.int/en/media/press-release/global-temperatures-set-reach-new-records-next-five-years
+2.Borg, F. H., Greibe Andersen, J., Karekezi, C., Yonga, G., Furu, P., Kallestrup, P., & Kraef, C. (2021). Climate change and health in urban informal settlements in low- and middle-income countries - A scoping review of health impacts and adaptation strategies. Global Health Action, 14(1), 1908064. https://doi.org/10.1080/16549716.2021.1908064  
+3.Heaviside, C., Vardoulakis, S., & Cai, X.-M. (2016). Attribution of mortality to the urban heat island during heatwaves in the West Midlands, UK. Environmental Health, 15(S1). https://doi.org/10.1186/s12940-016-0100-9 
+4.T. Cuerdo-Vilches, J. Díaz, J.A. López-Bueno, M.Y. Luna, M.A. Navas, I.J. Mirón, C. Linares,
+Impact of urban heat islands on morbidity and mortality in heat waves: Observational time series analysis of Spain's five cities,Science of The Total Environment,Volume 890,2023,164412,
+ISSN 0048-9697,https://doi.org/10.1016/j.scitotenv.2023.164412.
+5.Magnano San Lio, R., Favara, G., Maugeri, A., Barchitta, M., & Agodi, A. (2023). How antimicrobial resistance is linked to climate change: An overview of two intertwined global challenges. International Journal of Environmental Research and Public Health, 20(3), 1681. https://doi.org/10.3390/ijerph20031681 
+6.Baharav, Y., Nichols, L., Wahal, A., Gow, O., Shickman, K., Edwards, M., & Huffling, K. (2023). The Impact of Extreme Heat Exposure on pregnant people and neonates: A state of the science review. Journal of Midwifery &amp; Women’s Health, 68(3), 324–332. https://doi.org/10.1111/jmwh.13502 
+7.Jiao, A., Sun, Y., Avila, C., Chiu, V., Slezak, J., Sacks, D. A., Abatzoglou, J. T., Molitor, J., Chen, J.-C., Benmarhnia, T., Getahun, D., & Wu, J. (2023). Analysis of heat exposure during pregnancy and severe maternal morbidity. JAMA Network Open, 6(9), e2332780. https://doi.org/10.1001/jamanetworkopen.2023.32780 
+8.World Health Organization: WHO. (2023, May 10). Preterm birth. World Health Organization: WHO. https://www.who.int/en/news-room/fact-sheets/detail/preterm-birth
+9. Zhu, Y., He, C., Bell, M., Zhang, Y., Fatmi, Z., Zhang, Y., Zaid, M., Bachwenkizi, J., Liu, C., Zhou, L., Chen, R., & Kan, H. (2023). Association of ambient temperature with the prevalence of intimate partner violence among partnered women in low- and middle-income South Asian countries. JAMA Psychiatry, 80(9), 952. https://doi.org/10.1001/jamapsychiatry.2023.1958 
+10.Debnath, R., Bardhan, R., & Bell, M. L. (2023). Lethal heatwaves are challenging India’s sustainable development. PLOS Climate, 2(4), e0000156. https://doi.org/10.1371/journal.pclm.0000156 
+11.Kakkad, K., Barzaga, M. L., Wallenstein, S., Azhar, G. S., & Sheffield, P. E. (2014). Neonates in Ahmedabad, India, during the 2010 heat wave: A climate change adaptation study. Journal of Environmental and Public Health, 2014, 1–8. https://doi.org/10.1155/2014/946875 
+12. Zhu, Y., He, C., Bell, M., Zhang, Y., Fatmi, Z., Zhang, Y., Zaid, M., Bachwenkizi, J., Liu, C., Zhou, L., Chen, R., & Kan, H. (2023). Association of ambient temperature with the prevalence of intimate partner violence among partnered women in low- and middle-income South Asian countries. JAMA Psychiatry, 80(9), 952. https://doi.org/10.1001/jamapsychiatry.2023.1958
+13.Nagaraj, A. (2022, January 20). Incomes dip for South Asia’s women home workers as heat rises.Reuters.https://www.reuters.com/markets/commodities/incomes-dip-south-asias-women-home-workers-heat-rises-2022-01-20/ 
+
 
 
 

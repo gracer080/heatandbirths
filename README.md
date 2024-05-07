@@ -3,7 +3,7 @@ Project for CYPLAN255
 
 <img width="1509" alt="Screenshot 2024-05-06 at 10 01 15 PM" src="https://github.com/gracer080/heatandbirths/assets/79069159/ffbf363e-1826-45f9-a68a-94af3bd5fb77">
 
-
+# Interactive Heat Stress Vulnerability Index Map For Pregnant People (India)
 Click to check out the [Heat Vulnerability Index for Pregnant People Interactive Map](interactive_map2.html) to explore the associations between extreme heat and adverse obstetric outcomes in India.
 
 

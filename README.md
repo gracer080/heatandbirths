@@ -33,5 +33,8 @@ The sociodemographic profile of the selected mothers predominantly falls within 
 
 ![cyp255 (9)](https://github.com/gracer080/heatandbirths/assets/79069159/d84bae60-5e78-463e-8af9-2f9aeee6dc52)
 
+
+When examining the distribution of health outcomes across the study population, it was found that approximately 13% of the participants experienced preterm births, while around 25% of the newborns were classified as having low birth weight. These figures align closely with existing population-level estimates, suggesting that the sample is representative of broader trends. This consistency is crucial for validating the reliability of the study findings, as it reflects a realistic portrayal of the public health challenges faced by the population. Such data enables researchers to better understand the prevalence and distribution of these outcomes within the demographic context of the study, providing a solid foundation for further investigation into causal relationships and intervention strategies
+
 ![cyp255 (7)](https://github.com/gracer080/heatandbirths/assets/79069159/14f2b216-3502-47c1-8e79-384fc7f9a72a)
 

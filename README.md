@@ -38,3 +38,7 @@ When examining the distribution of health outcomes across the study population, 
 
 ![cyp255 (7)](https://github.com/gracer080/heatandbirths/assets/79069159/14f2b216-3502-47c1-8e79-384fc7f9a72a)
 
+Constructing Heat Stress Vulnerability Index for Pregnant People:
+
+Bivariate analysis was conducted using the chi-squared test, F statistics, and Rao-Scott adjustment to determine which sociodemographic factors are significantly associated with the outcomes of interest and varying levels of heat exposure categorized as low, medium, and high. The analysis revealed that younger individuals, those with no education, lower wealth quintiles, rural residents, members of historically disadvantaged castes, and those without prenatal care were significantly associated with higher heat exposure and an increased risk of preterm birth and low birth weight. These findings informed the creation of a heat vulnerability index for pregnant individuals. This index, ranging from 1 to 5, scores higher for individuals with multiple sociodemographic risk factors and living in regions with historically higher temperatures. Those with a combination of these risk factors scored 5, indicating higher vulnerability, while those with fewer associated characteristics and lower heat exposure scored 1, indicating lower vulnerability.
+

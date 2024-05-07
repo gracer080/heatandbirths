@@ -56,8 +56,9 @@ Bivariate analysis was conducted using the chi-squared test, F statistics, and R
 
 Creating the Interactive Map:
 
-The map was created by first loading heat stress data from HiTiSEA for each individual in the DHS data set into GeoDataFrames with  GeoPandas. This data included district level information on sociodemogrpahic factors and heat stress exposure which was then aggregated and visualized using Foliums. Districts were color coded based on index values, illustrating variations in distribution of obstetric outcomes, sociodemographic factors, and heat stress. 
+The map was created by first loading heat stress data from HiTiSEA for each individual in the DHS data set into GeoDataFrames with  GeoPandas. This data included district level information on sociodemogrpahic factors and heat stress exposure which was then aggregated and visualized using Folium. Districts were color coded based on index values, illustrating variations in distribution of obstetric outcomes, sociodemographic factors, and heat stress. 
 
+Click to check out the [Heat Vulnerability Index for Pregnant People Interactive Map](interactive_map2.html) to explore the associations between extreme heat and adverse obstetric outcomes in India.
 
 ![cyp255 (14)](https://github.com/gracer080/heatandbirths/assets/79069159/33c1ecfa-0147-4127-ad2c-9f1bde4a48b7)
 

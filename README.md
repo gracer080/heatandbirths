@@ -82,6 +82,8 @@ ISSN 0048-9697,https://doi.org/10.1016/j.scitotenv.2023.164412.
 12. Zhu, Y., He, C., Bell, M., Zhang, Y., Fatmi, Z., Zhang, Y., Zaid, M., Bachwenkizi, J., Liu, C., Zhou, L., Chen, R., & Kan, H. (2023). Association of ambient temperature with the prevalence of intimate partner violence among partnered women in low- and middle-income South Asian countries. JAMA Psychiatry, 80(9), 952. https://doi.org/10.1001/jamapsychiatry.2023.1958
 13.Nagaraj, A. (2022, January 20). Incomes dip for South Asia’s women home workers as heat rises.Reuters.https://www.reuters.com/markets/commodities/incomes-dip-south-asias-women-home-workers-heat-rises-2022-01-20/ 
 14.The DHS Program - India: Standard DHS, 2019-20. (https://dhsprogram.com/methodology/survey/survey-display-541.cfm). (Accessed March 23, 2024)   
+15. Yan Y, Xu Y, Yue S. A high-spatial-resolution dataset of human thermal stress indices over South and East Asia. Scientific Data. 2021;8(1):1–14.     
+
 
 
 

@@ -16,7 +16,7 @@ What are the various sociodemographic factors that contribute to increased heat 
 ![cyp255 (3)](https://github.com/gracer080/heatandbirths/assets/79069159/24c216eb-27db-44d6-891b-ff06a6a0b90d)
 
 
-#Methods
+# Methods
 
 This study examined data from the 2019-2021 DHS survey, which included 724,115 women from India, focusing on their birth histories, sociodemographic information, and health metrics like anemia and BMI, which may serve as coufounders for the outcomes of interest: preterm birth and low birthweight. These outcomes were chosen as proxies for maternal health status as the biological pathways contirbuting to these outcomes slightly differ, allowing for a broader spectrum of possible physiological impacts of thermal stress exposure. The analysis was restricted to 147,084 most recent live singleton births between 2015 and 2019. To merge this demographic data with environmental factors, particularly heat stress, it was crucial that the dataset included precise birth dates and household locations that could access heat stress data from regions covered by the survey (N = 131,682).
 

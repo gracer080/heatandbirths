@@ -24,3 +24,9 @@ For measuring heat stress, the Universal Thermal Climate Index (UTCI) was utiliz
 
 The linking of the DHS data with the heat stress indices involved using GPS coordinates for each household grouping in the DHS survey, which helped to accurately cross-reference daily maximum and mean UTCI values from the HiTiSEA dataset for each geographic location recorded. This cross-referencing included the daily max and mean UTCI values for the 90-day period preceding each child's birth during the years 2015-2019. This methodological approach allowed for a precise analysis of the impact of maternal heat stress on adverse obstetric outcomes.
 ![cyp255 (5)](https://github.com/gracer080/heatandbirths/assets/79069159/c54d56c4-a629-4182-a11b-c8d5ef306b7c)
+
+# Results
+
+Descriptive Statistics:
+
+

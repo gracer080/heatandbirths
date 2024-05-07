@@ -29,4 +29,8 @@ The linking of the DHS data with the heat stress indices involved using GPS coor
 
 Descriptive Statistics:
 
+The sociodemographic profile of the selected mothers predominantly falls within the age range of 20-25 years at birth. A substantial portion of these women have achieved at least a primary level of education, with the majority having secondary education. Most women (93.49%) accessed antenatal care services during their pregnancies. Regarding caste, 22% of the women belong to a scheduled caste, while smaller percentages belong to scheduled tribes (9.8%) and other backward castes (43%). The study also highlights a significant rural representation, with 72.9% of participants residing in rural areas. In terms of economic status, the distribution across wealth quintiles shows a considerable number of women in the lower economic brackets. Anthropometric data indicates that 58% of the women fall within the 'healthy weight' BMI category of 18.5-24.9. Additionally, biomarker data on hemoglobin levels shows that over half of the women (56.1%) were diagnosed as anemic, with conditions ranging from mild to severe. All these percentages were calculated using survey weights to accurately reflect the broader population’s characteristics.
+
+![cyp255 (9)](https://github.com/gracer080/heatandbirths/assets/79069159/d84bae60-5e78-463e-8af9-2f9aeee6dc52)
+
 

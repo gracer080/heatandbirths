@@ -33,4 +33,5 @@ The sociodemographic profile of the selected mothers predominantly falls within 
 
 ![cyp255 (9)](https://github.com/gracer080/heatandbirths/assets/79069159/d84bae60-5e78-463e-8af9-2f9aeee6dc52)
 
+![cyp255 (7)](https://github.com/gracer080/heatandbirths/assets/79069159/14f2b216-3502-47c1-8e79-384fc7f9a72a)
 

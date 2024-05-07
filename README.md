@@ -54,5 +54,14 @@ Constructing Heat Stress Vulnerability Index for Pregnant People:
 
 Bivariate analysis was conducted using the chi-squared test, F statistics, and Rao-Scott adjustment to determine which sociodemographic factors are significantly associated with the outcomes of interest and varying levels of heat exposure categorized as low, medium, and high. The analysis revealed that younger individuals, those with no education, lower wealth quintiles, rural residents, members of historically disadvantaged castes, and those without prenatal care were significantly associated with higher heat exposure and an increased risk of preterm birth and low birth weight. These findings informed the creation of a heat vulnerability index for pregnant individuals. This index, ranging from 1 to 5, scores higher for individuals with multiple sociodemographic risk factors and living in regions with historically higher temperatures. Those with a combination of these risk factors scored 5, indicating higher vulnerability, while those with fewer associated characteristics and lower heat exposure scored 1, indicating lower vulnerability.
 
-Inorder to investigate the spatial distibution of the created heat index, 
+Creating the Interactive Map:
+
+The map was created by first loading heat stress data from HiTiSEA for each individual in the DHS data set into GeoDataFrames with  GeoPandas. This data included district level information on sociodemogrpahic factors and heat stress exposure which was then aggregated and visualized using Foliums. Districts were color coded based on index values, illustrating variations in distribution of obstetric outcomes, sociodemographic factors, and heat stress. 
+
+
+
+
+
+
+
 

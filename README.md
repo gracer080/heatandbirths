@@ -1,5 +1,4 @@
 # Heat and Adverse Obstetric Outcomes
-Project for CYPLAN255
 
 # Interactive Heat Stress Vulnerability Index Map For Pregnant People (India)
 Click to check out the [Heat Vulnerability Index for Pregnant People Interactive Map](interactive_map2.html) to explore the associations between extreme heat and adverse obstetric outcomes in India.
